@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working with WordPress and PHP<br>I'm currently learning Gutenberg theme development<br>
+I'm currently working with WordPress and PHP<br><br>
 
 
 ## 🌐 Socials:
