@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working with WordPress and PHP<br><br>
-
+PHP/WordPress Shopify Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuaalmasin) 
